@@ -6,7 +6,7 @@ output:
     pdf_document
 ---
 
-##Paper discussion 1: Mara Bohm, Payton Arthur, Joan Moreaux, Naomi Lubkin
+Paper discussion 1: Mara Bohm, Payton Arthur, Joan Moreaux, Naomi Lubkin
 
 (1) Key terms that need defining in order to understand the paper.
 
