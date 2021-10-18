@@ -1,127 +1,124 @@
 ---
-title: "Favaro et al. (2014) Paper Summary"
-author: "Cole Brookson, Alex Davis"
-date: "10/13/2021"
+title: "Harley (2011) Paper Summary"
+author: "Mara Bohm, Naomi Lubkin, Joan Moreaux and Payton Arthur"
+date: "10/17/2021"
 output:
     pdf_document
 ---
-
-Paper discussion 1: Mara Bohm, Payton Arthur, Joan Moreaux, Naomi Lubkin
-
+**Paper discussion 1: Mara Bohm, Payton Arthur, Joan Moreaux, Naomi Lubkin**  
 (1) Key terms that need defining in order to understand the paper.
 
-**Bioclimatic envelope:** Ecological niche/species distribution as affected by climate (what climates species will be able to maintain their populations in) 
-**Coarse scales:** Not fine scales; bigger picture (in this context: investigating sites along an entire coastline to observe overall patterns, as opposed to a single site that has unique features that may not be applicable to the entire coastline or representative of the overall pattern)
-**Community dynamics:** How the species change in an area over time. This includes the identities of the species, their abundances and their relationships. 
-**Ecosystem function:** Biological processes that occur within the ecosystem (e.g. carbon fixation). Ecosystems functions are components of ecosystem services, which is the value that it represents to humans (e.g. breathing clean air). 
-**Thermal tolerance limits:** The upper and lower temperature conditions that a species can survive within (cannot physiologically adjust outside of this range).
-**Species richness:** The number of different species present in an area.
-**Interspecific interactions:** Relations between organisms of different species.
-**Community composition:** The different organisms that live in an area (the number and abundance of each species).
-**Ecosystem engineers:** Organisms that greatly alter their environment.  This can make habitats for other organisms.
-**Meso Faunal species:** Between micro- and macro- fauna, defined on size. Basically described as species that can be seen with the naked eye but are about the size of 3 human hairs. 
+Bioclimatic envelope: Ecological niche/species distribution as affected by climate (what climates species will be able to maintain their populations in)  
+Coarse scales: Not fine scales; bigger picture (in this context: investigating sites along an entire coastline to observe overall patterns, as opposed to a single site that has unique features that may not be applicable to the entire coastline or representative of the overall pattern)  
+Community dynamics: How the species change in an area over time. This includes the identities of the species, their abundances and their relationships.  
+Ecosystem function: Biological processes that occur within the ecosystem (e.g. carbon fixation). Ecosystems functions are components of ecosystem services, which is the value that it represents to humans (e.g. breathing clean air).  
+Thermal tolerance limits: The upper and lower temperature conditions that a species can survive within (cannot physiologically adjust outside of this range).  
+Species richness: The number of different species present in an area.  
+Interspecific interactions: Relations between organisms of different species.  
+Community composition: The different organisms that live in an area (the number and abundance of each species).  
+Ecosystem engineers: Organisms that greatly alter their environment.  This can make habitats for other organisms.  
+Meso Faunal species: Between micro- and macro- fauna, defined on size. Basically described as species that can be seen with the naked eye but are about the size of 3 human hairs.   
 
 (2) General questions that all students are responsible for answering about the study.
 	
-**General questions:**
-What is the hypothesis?
-What are the variables studied? 
-How were the variables assessed?
-What were the two conclusions of the paper? (they are linked to one another)
+General questions:  
+What is the hypothesis?  
+What are the variables studied?   
+How were the variables assessed?  
+What were the two conclusions of the paper? (they are linked to one another)  
 
-**Broad thinking questions:**
-What other systems could this be applicable to (other than the spider example given)?
-What would be the effect of this paper in terms of ecosystem function and services?
-Do you have any critiques of this paper?
+	Broad thinking questions:  
+What other systems could this be applicable to (other than the spider example given)?  
+What would be the effect of this paper in terms of ecosystem function and services?  
+Do you have any critiques of this paper?  
 
-(3) Questions that address each key item (figures) in the paper.
+(3) Questions that address each key item (figures) in the paper.  
 
-**Figure 1:**
-What is the question the researcher is trying to answer? How is this data useful for the researcher?
-Why did the researcher choose these sites? What are the benefits of these locations? 
-Do you see any potential problems with these choices?
-Where would be a better place to do this/how would you redesign?
-What did we see in mussel population quantity from east to west? Why?
-Do mussels have any other predators? Could we redesign this experiment to include other predators? Is this experiment still valid if it only includes one predator?
-Why do we see the decrease of M. trossolus and S. cariosus (the high intertidal species) in the easternmost sites?
-What is the conclusion of this figure? Do you think the data support these conclusions?
-Finally, he compared data of mussel zonation from these sites 52 years apart. What are some potential problems with this comparison given the site variation?
+Figure 1:  
+What is the question the researcher is trying to answer? How is this data useful for the researcher?  
+Why did the researcher choose these sites? What are the benefits of these locations?   
+Do you see any potential problems with these choices?  
+Where would be a better place to do this/how would you redesign?  
+What did we see in mussel population quantity from east to west? Why?  
+Do mussels have any other predators? Could we redesign this experiment to include other predators? Is this experiment still valid if it only includes one predator?  
+Why do we see the decrease of M. trossolus and S. cariosus (the high intertidal species) in the easternmost sites?  
+What is the conclusion of this figure? Do you think the data support these conclusions?  
+Finally, he compared data of mussel zonation from these sites 52 years apart. What are some potential problems with this comparison given the site variation?  
 
-**Figure 2:**
-Looking at the effects of temperature of on the upper limit of different organisms 
-What is the question the researcher is trying to answer?
-Why did he choose the 4 species in A, B, C and D?
-What does the dotted line in E and F mean?
-How does this figure compare with the material seen in class about the upper limit of intertidal organisms? Does it support or refute it? Think about both the sessile organisms and the sea stars. 
-What is the conclusion of this figure? Do you think the data support these conclusions? There is a compression of the upper limit for sessile organisms but not for Pisaster 
-Do you think the methods are appropriate, or were there any weaknesses?
-What other experimental designs (field or lab) could the author have used to test his hypothesis?
+Figure 2:   
+Looking at the effects of temperature of on the upper limit of different organisms  
+What is the question the researcher is trying to answer?  
+Why did he choose the 4 species in A, B, C and D?  
+What does the dotted line in E and F mean?  
+How does this figure compare with the material seen in class about the upper limit of intertidal organisms? Does it support or refute it? Think about both the sessile organisms and the sea stars.   
+What is the conclusion of this figure? Do you think the data support these conclusions?   There is a compression of the upper limit for sessile organisms but not for Pisaster   
+Do you think the methods are appropriate, or were there any weaknesses?  
+What other experimental designs (field or lab) could the author have used to test his hypothesis?  
 
-**Figure 3:**
-What question is the researcher trying to answer with this figure?
-Why choose a “hot site” to measure the effect of predator exclusion at?
-Why choose these four species in Figure A?
-What is the purpose of each of the three treatments in Figure A?
-How is each invertebrate species’ percent cover affected by predator exclusion at this site, and what are potential explanations for the patterns seen?
-How is overall species richness affected, and what is the proposed explanation?
-What are the main conclusions of this figure? Do you think the data support these conclusions? Do you think the data support these conclusions?
-Do you think the methods are appropriate, or were there any weaknesses?
+Figure 3:  
+What question is the researcher trying to answer with this figure?  
+Why choose a “hot site” to measure the effect of predator exclusion at?  
+Why choose these four species in Figure A?  
+What is the purpose of each of the three treatments in Figure A?  
+How is each invertebrate species’ percent cover affected by predator exclusion at this site, and what are potential explanations for the patterns seen?  
+How is overall species richness affected, and what is the proposed explanation?  
+What are the main conclusions of this figure? Do you think the data support these conclusions? Do you think the data support these conclusions?  
+Do you think the methods are appropriate, or were there any weaknesses?  
 
-**Figure 4:**
-What relationship is this figure looking at?  What conclusions were drawn from it?
-Is the relationship between the two parts of the figure a causation or correlation relationship? Why? Does this make their argument more compelling or less compelling?
-Why does the lower limit stay constant? Back up you answer using figure 2.  Are there any other possible explanations that weren’t mentioned in the paper?
-Do you agree with the conclusion they drew from this figure? Are the findings clear based on the layout of the figures?
-Would you expect to see the same trend if they were measuring mobile invertebrates?  Is generalizability a weakness for this figure?
+Figure 4:  
+What relationship is this figure looking at?  What conclusions were drawn from it?  
+Is the relationship between the two parts of the figure a causation or correlation relationship? Why? Does this make their argument more compelling or less compelling?  
+Why does the lower limit stay constant? Back up you answer using figure 2.  Are there any other possible explanations that weren’t mentioned in the paper?  
+Do you agree with the conclusion they drew from this figure? Are the findings clear based on the layout of the figures?  
+Would you expect to see the same trend if they were measuring mobile invertebrates?  Is generalizability a weakness for this figure?  
 
-**Summary of instructor-led discussion**
+**Summary of instructor-led discussion**  
 
-Keep in mind the format required for the journal (this paper was required to be a short narrative style, not intro/methods/results/etc)
-Where a paper is written is very important because it frames who they want to read it (high impact/supposedly many people are interested in the data)
-Vs. a more specific paper written for people in the field will have a more robust methods so people can recreate the experiment
-Clear question and conclusions - medium of paper impacts who is interested/reads the paper!
-Once you become a great scientist, the way you disseminate your information will change
-Usually complemented with extensive supplementary materials 
+Keep in mind the format required for the journal (this paper was required to be a short narrative style, not intro/methods/results/etc)  
+Where a paper is written is very important because it frames who they want to read it (high impact/supposedly many people are interested in the data)  
+Vs. a more specific paper written for people in the field will have a more robust methods so people can recreate the experiment  
+Clear question and conclusions - medium of paper impacts who is interested/reads the paper!  
+Once you become a great scientist, the way you disseminate your information will change  
+Usually complemented with extensive supplementary materials  
+
 
 ## Broad Questions
-This paper is documenting a new predation pattern as a result of anthropogenic climate change, so this shifting set of conditions negatively affecting prey is “our fault”. Is it our responsibility to now exercise direct impact on the predator?
-No, we do not know what impact this would have (ecosystems are really complex, we don’t want to do more harm accidentally)
-Maybe? It is difficult to undo all the impacts of humans, and fixing them by creating more human impacts seems wrong
-No, we do have a responsibility, but maybe this responsibility can be to monitor/understand impacts of the predator/be more aware
-Responsibility does not necessarily mean removal.
-We should be fixing the underlying mechanism, instead of removing sea stars as a bandaid fix. 
-Invasive species management: it’s directly our fault most of the time when invasive species are introduced. How much do we mitigate their spread? What do we care about in conservation, and to what extent?
-Ecosystems are going to change regardless, so should we change everything based on what we want to see?
-What lens are you looking through when looking at the ecosystems and conservations? What do we think is worth preserving? (trait based approach)
-Looking at species-based vs ecosystem-based conservation 
-Should/can you separate science and management? (Should the people doing the science be involved with the management)? In relation to the paper.
-Two parties, one that understands the problem, and one that understands management and problem mitigation
-Management tends to have a bias related to economy so science and management should work together since the researchers could be less biased
-Scientists always need to help inform decisions but they need help disseminating the information. Science doesn’t have value unless it can reach the public. Need a mix of different people to help making decisions (scientists might not be able to make the best decisions based on what the public wants).
-Discussed bias in science
-Does the public want conservation science to be unbiased?
-Should science inform policy makers, or would that be science with an agenda, creating lots of bias?
-Scientists need a lot of help making science accessible, and if the papers exist in a vacuum of academics it is essentially useless
-Conservation is really based on ecosystem services since it has important economic implications. Emotional attachment also plays a role, so species-based conservation is effective for funding.
-I wouldn’t trust scientists to create policies. We need people who can think about society and how it’s structured in order to help stop climate change to help solve the problem.
-Science needs to be accessible so that management and the public can help to make the decision rather than just relying on a biased science.
-The process of creating science, getting it to the public and creating policies on that science should be teamwork!! Many specialists of different kinds need to be working together to make change
-Science might not necessarily be biased as long as you’re building strong hypotheses.
-The role of the scientist is not to determine which of the possibilities, but what the possibilities are.
+1. This paper is documenting a new predation pattern as a result of anthropogenic climate change, so this shifting set of conditions negatively affecting prey is “our fault”. Is it our responsibility to now exercise direct impact on the predator?
+a. No, we do not know what impact this would have (ecosystems are really complex, we don’t want to do more harm accidentally)
+b. Maybe? It is difficult to undo all the impacts of humans, and fixing them by creating more human impacts seems wrong
+c. No, we do have a responsibility, but maybe this responsibility can be to monitor/understand impacts of the predator/be more aware  
+   i. Responsibility does not necessarily mean removal.
+   ii. We should be fixing the underlying mechanism, instead of removing sea stars as a bandaid fix. 
+2. Invasive species management: it’s directly our fault most of the time when invasive species are introduced. How much do we mitigate their spread? What do we care about in conservation, and to what extent?
+a. Ecosystems are going to change regardless, so should we change everything based on what we want to see?
+b. What lens are you looking through when looking at the ecosystems and conservations? What do we think is worth preserving? (trait based approach)  
+   i. Looking at species-based vs ecosystem-based conservation 
+3. Should/can you separate science and management? (Should the people doing the science be involved with the management)? In relation to the paper.
+a. Two parties, one that understands the problem, and one that understands management and problem mitigation
+b. Management tends to have a bias related to economy so science and management should work together since the researchers could be less biased
+c. Scientists always need to help inform decisions but they need help disseminating the information. Science doesn’t have value unless it can reach the public. Need a mix of different people to help making decisions (scientists might not be able to make the best decisions based on what the public wants).
+d. Discussed bias in science   
+   i. Does the public want conservation science to be unbiased?
+  ii. Should science inform policy makers, or would that be science with an agenda, creating lots of bias?
+  iii. Scientists need a lot of help making science accessible, and if the papers exist in a vacuum of academics it is essentially useless
+e. Conservation is really based on ecosystem services since it has important economic implications. Emotional attachment also plays a role, so species-based conservation is effective for funding.
+f. I wouldn’t trust scientists to create policies. We need people who can think about society and how it’s structured in order to help stop climate change to help solve the problem.
+g. Science needs to be accessible so that management and the public can help to make the decision rather than just relying on a biased science.
+h. The process of creating science, getting it to the public and creating policies on that science should be teamwork!! Many specialists of different kinds need to be working together to make change  
+i. Science might not necessarily be biased as long as you’re building strong hypotheses.
+4. The role of the scientist is not to determine which of the possibilities, but what the possibilities are.
 
 ## Changing Viewpoints
-This paper was criticized quite a bit for its narrative format during discussions. However, this format makes it more accessible to public and policy makers instead of being replicable science, so perhaps this format is a good thing?
-The question also made the class shift from a biological lens to more of a conservation lens when reading the paper. Students started talking about the moral implications of the findings, which was not brought up in the previous group discussions. Students also stopped seeing the paper as an isolated event and started to see how scientists and policy makers interact, particularly in respect to climate change. Most students expressed that scientists and policy makers should cooperate when creating regulations. After this final group discussion, most students shared the perspective that, by discovering and sharing the information in the paper, the author was fulfilling (in part) his responsibility as a scientist to aid in the conservation of organisms impacted by climate change.
+This paper was criticized quite a bit for its narrative format during discussions. However, this format makes it more accessible to public and policy makers instead of being replicable science, so perhaps this format is a good thing?  The question also made the class shift from a biological lens to more of a conservation lens when reading the paper. Students started talking about the moral implications of the findings, which was not brought up in the previous group discussions. Students also stopped seeing the paper as an isolated event and started to see how scientists and policy makers interact, particularly in respect to climate change. Most students expressed that scientists and policy makers should cooperate when creating regulations. After this final group discussion, most students shared the perspective that, by discovering and sharing the information in the paper, the author was fulfilling (in part) his responsibility as a scientist to aid in the conservation of organisms impacted by climate change.
 
 ## Connections
 The questions directly relate to the paper because the research highlights the role of anthropogenic pressures on global warming. As such, Harley suggests a causal-effect relationship between human activity and the decrease of the upper limit of sessile invertebrates in the intertidal. The questions asked by the teaching team brings us to think about the future role of scientists (us) beyond noticing and explaining ecological patterns. This directly relates to the paper’s discussion because Harley only mentions that the predator-free range of sessile invertebrates is shrinking rather than proposing conservation solutions and policies.
 
 ## Epistomology
 Now we know that it is important to think critically and have conversations before making conservation decisions. More plainly, we must consider what our values are in conservation, how those values shape which species we protect, and if it is more valuable to fix underlying mechanisms rather than superficially addressing identified problems in ecosystems. It is also important to think about the role of a scientist in management; this role may be just providing information and not in decision making. Additionally, science may not be valuable if it is not disseminated effectively to the public. Given this, we must consider if scientists themselves can effectively share this information, or if help from others more educated in information communication is necessary. Scientific literature published in magazines like Nature are written in a completely different fashion than normal scientific literature. We should consider which method is more effective, or alternatively if they are both effective, but under different circumstances. We must ask ourselves when it is appropriate to share science in the traditional formal method, and when we should lean towards the “highlights” style found in large magazines like Nature.
-
+ 
 When interpreting scientific literature, in the context of this discussion it could be beneficial to consider the perspective of the author; i.e. their motivations in doing research and how they are presenting it. It also could be beneficial when interpreting literature to consider how the research can be applied to informed policy making, as a lot of scientists do not take this step. 
 
 ## How Science Happens
 Institutions teach their students to write about science in a method that is exclusive, usually intentionally difficult to replicate and often very uninteresting to people outside of the small academic community that we are researching in. Although this is beginning to change, this style of writing is extremely problematic when considering science communication, as it makes the dissemination of scientific information very difficult. Thus scientific standards, as well as scientists themselves, need to undergo fundamental changes to make science more accessible. Alternatively (and currently), scientists require a lot of assistance from people knowledgeable in communication outreach to reformat scientific information in a way that makes it much more accessible. Essentially, there needs to be some big changes in science, because if we cannot share our information with policy makers and the public to inspire and create change, then why are we even doing this? While this paper introduced us to a more accessible narrative style compared to other published literature, the presence of key terms needing defining, and the lack of proposed policies highlight the need for change. 
-
 
